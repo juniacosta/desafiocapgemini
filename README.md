@@ -6,7 +6,7 @@ Questão 01 - Digite um número inteiro para estabelecer o número de degraus da
 
 Questão 02 - Verificação de senha forte.
 
-Questão 03 - Não realizado.
+Questão 03 - Contador de anagramas.
 
 Algoritmo elaborado em IntelliJ IDEA Community Edition 2021.3.2, formato Java 17.
 
